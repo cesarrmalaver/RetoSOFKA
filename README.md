@@ -9,3 +9,6 @@ Se presenta la soluciòn al reto de carreras de carros para las ligas de entrena
 -Se crean objetos de entidades; pista, juego, carril, carro, conductor, jugador, podio
 
 -La persistencia de los datos se genera en el archivo "src/main/java/juego/datos.txt"
+
+Cesar R Malaver
+cesarrmalaver@gmail.com
