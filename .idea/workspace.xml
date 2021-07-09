@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f3ce718-b617-424a-baea-b9c877d2d96d" name="Default Changelist" comment="mejoras de forma">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/juego/CarrosAleatorios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juego/CarrosAleatorios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/juego/principal/domain/juego/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juego/principal/domain/juego/Juego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/juego/datos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juego/datos.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +57,14 @@
       <option name="presentableId" value="Default" />
       <updated>1625798150778</updated>
     </task>
+    <task id="LOCAL-00001" summary="mejoras de forma">
+      <created>1625845700882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625845700882</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,6 +78,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mejoras de forma" />
+    <option name="LAST_COMMIT_MESSAGE" value="mejoras de forma" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RetoSofkaTL$CarrosAleatorios.ic" NAME="CarrosAleatorios Coverage Results" MODIFIED="1625860604318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
