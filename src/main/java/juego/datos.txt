@@ -1,0 +1,86 @@
+############INICIANDO PARTIDA############
+2021/07/09 10:45:08
+********Podio********
+Primer Lugar:  Jugador2
+Segundo Lugar:  Jugador3
+Tercer Lugar:  Jugador1
+El Jugador2 lleva 1 victorias
+*********************
+********Podio********
+Primer Lugar:  Jugador2
+Segundo Lugar:  Jugador4
+Tercer Lugar:  Jugador1
+El Jugador2 lleva 2 victorias
+*********************
+********Podio********
+Primer Lugar:  Jugador2
+Segundo Lugar:  Jugador3
+Tercer Lugar:  Jugador1
+El Jugador2 lleva 3 victorias
+*********************
+********Podio********
+Primer Lugar:  Jugador4
+Segundo Lugar:  Jugador3
+Tercer Lugar:  Jugador2
+El Jugador4 lleva 1 victorias
+*********************
+********Podio********
+Primer Lugar:  Jugador2
+Segundo Lugar:  Jugador1
+Tercer Lugar:  Jugador3
+El Jugador2 lleva 4 victorias
+*********************
+********Podio********
+Primer Lugar:  Jugador3
+Segundo Lugar:  Jugador2
+Tercer Lugar:  Jugador4
+El Jugador3 lleva 1 victorias
+*********************
+********Podio********
+Primer Lugar:  Jugador3
+Segundo Lugar:  Jugador1
+Tercer Lugar:  Jugador4
+El Jugador3 lleva 2 victorias
+*********************
+********Podio********
+Primer Lugar:  Jugador1
+Segundo Lugar:  Jugador3
+Tercer Lugar:  Jugador2
+El Jugador1 lleva 1 victorias
+*********************
+********Podio********
+Primer Lugar:  Jugador1
+Segundo Lugar:  Jugador4
+Tercer Lugar:  Jugador3
+El Jugador1 lleva 2 victorias
+*********************
+********Podio********
+Primer Lugar:  Jugador3
+Segundo Lugar:  Jugador2
+Tercer Lugar:  Jugador1
+El Jugador3 lleva 3 victorias
+*********************
+********Podio********
+Primer Lugar:  Jugador3
+Segundo Lugar:  Jugador1
+Tercer Lugar:  Jugador4
+El Jugador3 lleva 4 victorias
+*********************
+********Podio********
+Primer Lugar:  Jugador1
+Segundo Lugar:  Jugador4
+Tercer Lugar:  Jugador2
+El Jugador1 lleva 3 victorias
+*********************
+********Podio********
+Primer Lugar:  Jugador1
+Segundo Lugar:  Jugador4
+Tercer Lugar:  Jugador2
+El Jugador1 lleva 4 victorias
+*********************
+********Podio********
+Primer Lugar:  Jugador4
+Segundo Lugar:  Jugador1
+Tercer Lugar:  Jugador2
+El Jugador4 lleva 2 victorias
+*********************

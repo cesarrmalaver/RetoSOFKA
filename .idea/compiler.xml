@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="RetoSofkaTL" />
         <module name="RetoSofkaU" />
+        <module name="RetoSOFKA" />
       </profile>
     </annotationProcessing>
   </component>

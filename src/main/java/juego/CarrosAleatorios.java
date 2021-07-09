@@ -19,7 +19,7 @@ public class CarrosAleatorios {
         Scanner in = new Scanner(System.in);
         System.out.println("Cada jugador se convertirá en conductor y se le asignarà un carro.");
         System.out.println("Deben ser minimo 3 jugadores para llenar el podio");
-        System.out.println("Ingrease la cantidad de jugadores: ");
+        System.out.println("Ingrese la cantidad de jugadores: ");
 
          while(!in.hasNextInt()) in.next();         
         cantidadJugadores = in.nextInt();
